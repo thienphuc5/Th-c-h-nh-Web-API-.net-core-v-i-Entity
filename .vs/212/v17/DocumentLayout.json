@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\212\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\migrations\\20250226105721_addphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:migrations\\20250226105721_addphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\migrations\\studentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:migrations\\studentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\212.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:212.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A00C1E1-3153-48B9-997C-2068D3DE883E}|212.csproj|c:\\users\\asus\\source\\repos\\212\\212.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,19 +50,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "212.http",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\212\\212.http",
+              "RelativeDocumentMoniker": "212.http",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\212\\212.http",
+              "RelativeToolTip": "212.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-26T11:01:48.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "StudentContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\212\\Migrations\\StudentContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\StudentContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\212\\Migrations\\StudentContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\StudentContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:57:57.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250226105721_AddPhoto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\212\\Migrations\\20250226105721_AddPhoto.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250226105721_AddPhoto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\212\\Migrations\\20250226105721_AddPhoto.cs",
+              "RelativeToolTip": "Migrations\\20250226105721_AddPhoto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:57:21.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\212\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -58,12 +102,11 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-23T05:46:25.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T05:46:25.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\212\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -71,50 +114,48 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-21T10:15:23.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T10:15:23.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "212.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\212\\212.csproj",
               "RelativeDocumentMoniker": "212.csproj",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\212\\212.csproj",
               "RelativeToolTip": "212.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-21T10:04:13.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\212\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\212\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T10:01:16.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T10:01:16.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\212\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\212\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T09:59:48.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StudentContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\212\\Data\\StudentContext.cs",
               "RelativeDocumentMoniker": "Data\\StudentContext.cs",
@@ -122,21 +163,19 @@
               "RelativeToolTip": "Data\\StudentContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T09:55:34.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T09:55:34.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\212\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\212\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T08:58:01.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T08:58:01.163Z"
             }
           ]
         }

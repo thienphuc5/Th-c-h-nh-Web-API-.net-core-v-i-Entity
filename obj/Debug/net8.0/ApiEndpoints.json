@@ -16,6 +16,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "_212.Controllers.StudentsController",
+    "Method": "UpdatePhoto",
+    "RelativePath": "api/Students/UpdatePhoto/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "base64ImageString",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "_212.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
